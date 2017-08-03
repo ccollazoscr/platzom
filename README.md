@@ -12,7 +12,7 @@ PLATZOM es un idioma inventado para el [curso de Fundamentos Javascript](https::
 ## Instalación
 
 ```
-npm intall  platzom
+npm install  platzom
 ```
 
 ## Uso
